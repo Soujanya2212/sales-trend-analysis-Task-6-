@@ -7,4 +7,4 @@ Group by year\month.
 Use sum() for revenue.
 COUNT(DISTINCT ID)for volume.
 Use ORDER BYfor sorting.
-Limit results for specific time periods. But not support returns incorrect syntax
+Limit results for specific time periods. But not support returns incorrect syntax.
